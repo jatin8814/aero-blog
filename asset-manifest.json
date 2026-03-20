@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aero-blog/static/css/main.f3f38762.css",
+    "main.js": "/aero-blog/static/js/main.c94af4cd.js",
+    "static/js/453.7d883bce.chunk.js": "/aero-blog/static/js/453.7d883bce.chunk.js",
+    "static/media/logo.png": "/aero-blog/static/media/logo.141876146d6e91d8c2b9.png",
+    "index.html": "/aero-blog/index.html",
+    "main.f3f38762.css.map": "/aero-blog/static/css/main.f3f38762.css.map",
+    "main.c94af4cd.js.map": "/aero-blog/static/js/main.c94af4cd.js.map",
+    "453.7d883bce.chunk.js.map": "/aero-blog/static/js/453.7d883bce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3f38762.css",
+    "static/js/main.c94af4cd.js"
+  ]
+}
