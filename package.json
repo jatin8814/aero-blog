@@ -1,5 +1,8 @@
 {
+<<<<<<< HEAD
   "homepage": "https://jatin8814.github.io/aero-blog",
+=======
+>>>>>>> 8d50889cb83e88afebfaf9dcb587f86fb7e08578
   "name": "aero-blog",
   "version": "0.1.0",
   "private": true,
@@ -19,8 +22,11 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+=======
+>>>>>>> 8d50889cb83e88afebfaf9dcb587f86fb7e08578
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -46,7 +52,10 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.24",
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+>>>>>>> 8d50889cb83e88afebfaf9dcb587f86fb7e08578
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.19"
   }
